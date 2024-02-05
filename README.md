@@ -34,13 +34,13 @@ RL
 
 ## 🔗 Connect with Me
 <div id="badges">
-  <a href="t.me/bolg_4rin">
+  <a href="https://t.me/bolg_4rin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/bolg_4rin">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="8yp3r10@gmail.com">
     <img src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>
