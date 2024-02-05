@@ -6,9 +6,10 @@
 
 ## 👨‍💻 About Me
 ```bash
-Education: NSU, 2021-2025, Institure of Intellegence Robotics
 Location: Novosibirsk
-Languages: English (B2), German (A2)
+Education: NSU, 2021-2025, Institure of Intellegence Robotics
+Languages: English (B2), German (A2), Russian (native speaker)
+Hobby: maths, 3d-modeling and different live activities
 ```
 
 ## 🚀 Skills
