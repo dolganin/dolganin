@@ -5,7 +5,7 @@
     $ sudo apt upgrade
 ```
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="300"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="250"/>
 
 ## 👨‍💻 About Me
 ```bash
