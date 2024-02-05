@@ -5,7 +5,11 @@
 ```
 
 ## 👨‍💻 About Me
-Passionate and creative software developer with a knack for problem-solving and a love for clean and efficient code. I thrive in dynamic environments and enjoy taking on challenges that push me to expand my skill set.
+```C++
+Education: NSU, 2021-2025, Institure of Intellegence Robotics
+Location: Novosibirsk
+Languages: English (B2), German (A2)
+
 
 ## 🚀 Skills
 - **Languages:** Python, C, Jupyter Notebook.
