@@ -15,7 +15,7 @@ Continuously expanding my knowledge in [specific technology or domain you are cu
 - ["VK"](https://vk.com/bolg_4rin)
 - *Telegram*, @bolg_4rin
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![dolganin stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
 
 ## 📚 Featured Repositories
 1. [Repository Name 1](https://github.com/yourusername/repository1) - Brief description.
