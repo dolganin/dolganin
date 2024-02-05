@@ -1,4 +1,4 @@
-# dolganin
+# dolganin@github
 ```bash
     $ sudo apt update
     $ sudo apt upgrade
@@ -9,18 +9,23 @@
 Location: Novosibirsk
 Education: NSU, 2021-2025, Institure of Intellegence Robotics
 Languages: English (B2), German (A2), Russian (native speaker)
-Hobby: maths, 3d-modeling and different life activities
+Hobby: maths, 3d-modeling, engineering and different life activities
+OS: Win 11/Ubuntu 22.04
 ```
 
 ## 🚀 Skills
 ```bash
 Languages: Python, C, Jupyter Notebook, Markdown
 Frameworks: PyTorch, TensorFlow, ROS, numpy, scikit-learn
+Techs: Docker
 ```
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif)" width="100"/>
+</div>
 
 ## 🌱 Currently Learning
 ```bash
-
 ```
 
 
