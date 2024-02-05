@@ -8,13 +8,13 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="250"/>
 
 ## 👨‍💻 About Me
-    ```bash
+```bash
     Location: Novosibirsk
     Education: NSU, 2021-2025, Institute of Intellegence Robotics
     Languages: English (B2), German (A2), Russian (native speaker)
     Hobby: maths, 3d-modeling, engineering and different life activities
     OS: Win 11/Ubuntu 22.04
-    ```
+```
 ---
 
 ## 🚀 Skills
