@@ -1,4 +1,8 @@
 # dolganin
+```bash
+    $ sudo apt update
+    $ sudo apt upgrade
+```
 
 ## 👨‍💻 About Me
 Passionate and creative software developer with a knack for problem-solving and a love for clean and efficient code. I thrive in dynamic environments and enjoy taking on challenges that push me to expand my skill set.
@@ -7,8 +11,7 @@ Passionate and creative software developer with a knack for problem-solving and 
 - **Languages:** Python, C, Jupyter Notebook.
 - **Frameworks:** PyTorch, TensorFlow, ROS
 - **Tools:** [Development tools and technologies you are familiar with]
-```C++
-```
+
 ## 🌱 Currently Learning
 Continuously expanding my knowledge in [specific technology or domain you are currently learning].
 
