@@ -1,7 +1,7 @@
 # dolganin@github
 
-<div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="400"/>
+<div id="header" align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="300"/>
 </div>
 
 
