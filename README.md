@@ -13,7 +13,7 @@ Continuously expanding my knowledge in [specific technology or domain you are cu
 
 ## 🔗 Connect with Me
 - ["VK"](https://vk.com/bolg_4rin)
-- ["Telegram"](@bolg_4rin)
+- @bolg_4rin
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
 
