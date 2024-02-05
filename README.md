@@ -14,12 +14,13 @@
     Languages: English (B2), German (A2), Russian (native speaker)
     Hobby: maths, 3d-modeling, engineering and different life activities
     OS: Win 11/Ubuntu 22.04
+    Professional field: AI (CV, NLP, some RL), different maths solutions in programming
 ```
 ---
 
 ## 🚀 Skills
 ```bash
-Languages: Python, C, Jupyter Notebook, Markdown
+Languages: Python, C, Jupyter Notebook, Markdown 
 Frameworks: PyTorch, TensorFlow, ROS, numpy, scikit-learn
 Techs: Docker
 ```
