@@ -7,7 +7,8 @@ Passionate and creative software developer with a knack for problem-solving and 
 - **Languages:** Python, C, Jupyter Notebook.
 - **Frameworks:** PyTorch, TensorFlow, ROS
 - **Tools:** [Development tools and technologies you are familiar with]
-
+```C++
+```
 ## 🌱 Currently Learning
 Continuously expanding my knowledge in [specific technology or domain you are currently learning].
 
@@ -21,8 +22,6 @@ Continuously expanding my knowledge in [specific technology or domain you are cu
 1. [Repository Name 1](https://github.com/yourusername/repository1) - Brief description.
 2. [Repository Name 2](https://github.com/yourusername/repository2) - Brief description.
 3. [Repository Name 3](https://github.com/yourusername/repository3) - Brief description.
-
-Feel free to explore my repositories to see the diverse range of projects I've worked on!
 
 <!--
 **dolganin/dolganin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
