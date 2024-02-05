@@ -40,7 +40,7 @@ RL
   <a href="https://vk.com/bolg_4rin">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="8yp3r10@gmail.com">
+  <a href="[8yp3r10@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=8yp3r10@gmail.com&su=SUBJECT&body=BODY&bcc=8yp3r10@gmail.com)">
     <img src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>
