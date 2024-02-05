@@ -8,13 +8,13 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="250"/>
 
 ## 👨‍💻 About Me
-```bash
-Location: Novosibirsk
-Education: NSU, 2021-2025, Institure of Intellegence Robotics
-Languages: English (B2), German (A2), Russian (native speaker)
-Hobby: maths, 3d-modeling, engineering and different life activities
-OS: Win 11/Ubuntu 22.04
-```
+    ```bash
+    Location: Novosibirsk
+    Education: NSU, 2021-2025, Institute of Intellegence Robotics
+    Languages: English (B2), German (A2), Russian (native speaker)
+    Hobby: maths, 3d-modeling, engineering and different life activities
+    OS: Win 11/Ubuntu 22.04
+    ```
 ---
 
 ## 🚀 Skills
@@ -38,10 +38,6 @@ Techs: Docker
   </a>
 </div>
 
-## 📈 GitHub Stats
-![dolganin stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-
-## 📚 Featured Repositories
 <!--
 **dolganin/dolganin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
