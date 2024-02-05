@@ -9,15 +9,19 @@
 Location: Novosibirsk
 Education: NSU, 2021-2025, Institure of Intellegence Robotics
 Languages: English (B2), German (A2), Russian (native speaker)
-Hobby: maths, 3d-modeling and different live activities
+Hobby: maths, 3d-modeling and different life activities
 ```
 
 ## 🚀 Skills
-- **Languages:** Python, C, Jupyter Notebook.
-- **Frameworks:** PyTorch, TensorFlow, ROS
-
+```bash
+Languages: Python, C, Jupyter Notebook, Markdown
+Frameworks: PyTorch, TensorFlow, ROS, numpy, scikit-learn
+```
 
 ## 🌱 Currently Learning
+```bash
+
+```
 
 
 ## 🔗 Connect with Me
