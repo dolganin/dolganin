@@ -24,11 +24,6 @@ Frameworks: PyTorch, TensorFlow, ROS, numpy, scikit-learn
 Techs: Docker
 ```
 
-## 🌱 Currently Learning
-```bash
-RL
-```
-
 
 ## 🔗 Connect with Me
 <div id="badges">
