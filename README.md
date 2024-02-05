@@ -5,11 +5,11 @@
 ```
 
 ## 👨‍💻 About Me
-```C++
+```bash
 Education: NSU, 2021-2025, Institure of Intellegence Robotics
 Location: Novosibirsk
 Languages: English (B2), German (A2)
-
+```
 
 ## 🚀 Skills
 - **Languages:** Python, C, Jupyter Notebook.
