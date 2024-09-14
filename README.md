@@ -13,7 +13,7 @@
     Education: NSU, 2021-2025, Institute of Intellegence Robotics
     Languages: English (B2), German (A2), Russian (native speaker)
     Hobby: maths, 3d-modeling, engineering and different life activities
-    OS: Win 11/Ubuntu 22.04
+    OS: Manjaro/Ubuntu 22.04
     Professional field: AI (CV, NLP, some RL),
     some algorithms
 ```
