@@ -9,20 +9,33 @@
 ## 👨‍💻 About Me
 ```bash
     Location: Novosibirsk
-    Education: NSU, 2021-2025, Institute of Intellegence Robotics
-    Languages: English (B2), German (A2), Russian (native speaker)
-    Hobby: maths, 3d-modeling, engineering and different life activities
-    OS: Manjaro/Ubuntu 22.04
-    Professional field: AI (CV, NLP, some RL),
-    some algorithms
+    Education: NSU, 2021-2025, Deep Robotics Institute, Artificial Intelligence
+    Languages: English (B2), Russian (native speaker)
+    Hobbys:
+    - Playing high-paced FPS games like Ultrakill or Doom; 
+    - Reading neuroscience and AI-related books (classical Ian Goodfellow or Richard Sutton), like those by Robert Sapolsky;
+    - Experimenting with reinforcement learning algorithms and game AI;
+    OS: Ubuntu 24.04 (had an experience with Arch)
+    Professional field: 
 ```
 ---
 
 ## 🚀 Skills
 ```bash
-Languages: Python, C, Jupyter Notebook, Markdown 
-Frameworks: PyTorch, TensorFlow, ROS, numpy, scikit-learn
-Techs: Docker
+Languages: Python, C, Jupyter Notebook, Markdown  
+Frameworks: PyTorch, TensorFlow, Flask, numpy, scikit-learn  
+Techs: Docker, Kafka, OpenCV  
+Hardware: Rockchip (specialized in RK3588)  
+Research Areas: Reinforcement Learning, Computer Vision, Seismology Signal Analysis  
+Teaching: Machine Learning and Neural Networks at NSU  
+```
+## 🌟 Highlights
+```bash
+Dynamic Behavior Agents: Developing RL agents with adaptive behavior. GitHub Link
+Snake RL: Implemented a reinforcement learning agent for the classic Snake game. GitHub Link
+Seismology Research: Investigating earthquake prediction on Kamchatka with custom signal compression models (proprietary implementations).
+Rockchip Expertise: Proficient in working with RK3588, including documentation translation and system integration.
+Teaching: Author of practical ML and NN assignments for students at NSU. Assignments Repository
 ```
 
 
