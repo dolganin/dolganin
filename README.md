@@ -8,15 +8,21 @@
 
 ## 👨‍💻 About Me
 ```bash
-    Location: Novosibirsk
-    Education: NSU, 2021-2025, Deep Robotics Institute, Artificial Intelligence
-    Languages: English (B2), Russian (native speaker)
-    Hobbys:
-    - Playing high-paced FPS games like Ultrakill or Doom; 
-    - Reading neuroscience and AI-related books (classical Ian Goodfellow or Richard Sutton), like those by Robert Sapolsky;
-    - Experimenting with reinforcement learning algorithms and game AI;
-    OS: Ubuntu 24.04 (had an experience with Arch)
-    Professional field: 
+Location: Novosibirsk, Russia  
+Education:  
+    - NSU, 2021-2025, Deep Robotics Institute, Artificial Intelligence  
+Languages:  
+    - English (B2), Russian (native speaker)  
+Hobbies:  
+    - High-paced FPS gaming (e.g., Ultrakill, Doom)  
+    - Reading neuroscience and AI classics (e.g., Ian Goodfellow, Richard Sutton, Robert Sapolsky)  
+    - Developing RL algorithms and experimenting with game AI dynamics  
+    - Exploring signal processing and compression techniques  
+OS: Ubuntu 24.04 (prior experience with Arch Linux)  
+Professional Field:  
+    - Computer Vision, Reinforcement Learning, and Game AI  
+    - Seismology-based predictive modeling  
+    - Embedded systems (special focus on RK3588 and related tech)  
 ```
 ---
 
