@@ -4,7 +4,13 @@
     $ sudo apt update && sudo apt upgrade -y
 ```
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="250"/>
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="Images/best_video.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 ## 👨‍💻 About Me
 ```bash
