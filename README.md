@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="[https://github.com/USERNAME/REPOSITORY/raw/main/Images/best_video.webm](https://github.com/dolganin/dolganin/blob/main/Images/best_video.webm)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="250" alt="Click to view video">
+    <img src="http://talos2.ru:21935/static/gameplay/best_video.webm" width="350" alt="Click to view video">
   </a>
 </p>
 
