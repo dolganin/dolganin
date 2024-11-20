@@ -1,8 +1,7 @@
 # dolganin@github
 
 ```bash
-    $ sudo apt update
-    $ sudo apt upgrade
+    $ sudo apt update && sudo apt upgrade -y
 ```
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/1280px-NewtonIteration_Ani.gif" width="250"/>
