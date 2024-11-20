@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 ```bash
-Location: Novosibirsk, Russia  
+Location: Novosibirsk, Russian Federation
 Education:  
     - NSU, 2021-2025, Deep Robotics Institute, Artificial Intelligence  
 Languages:  
@@ -28,7 +28,8 @@ Professional Field:
 
 ## 🚀 Skills
 ```bash
-Languages: Python, C, Jupyter Notebook, Markdown  
+Core Languages: Python, C, Markdown
+Secondary Languages: C++, HTML, CSS, JS
 Frameworks: PyTorch, TensorFlow, Flask, numpy, scikit-learn  
 Techs: Docker, Kafka, OpenCV  
 Hardware: Rockchip (specialized in RK3588)  
