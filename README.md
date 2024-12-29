@@ -4,14 +4,6 @@
     $ sudo apt update && sudo apt upgrade -y
 ```
 
-<p align="center">
-  <a href="[https://github.com/USERNAME/REPOSITORY/raw/main/Images/best_video.webm](https://github.com/dolganin/dolganin/blob/main/Images/best_video.webm)">
-    <img src="http://talos2.ru:21935/static/gameplay/best_video.webm" width="350" alt="Click to view video">
-  </a>
-</p>
-
-
-
 ## 👨‍💻 About Me
 ```bash
 Location: Novosibirsk, Russian Federation
@@ -40,15 +32,15 @@ Frameworks: PyTorch, TensorFlow, Flask, numpy, scikit-learn
 Techs: Docker, Kafka, OpenCV  
 Hardware: Rockchip (specialized in RK3588)  
 Research Areas: Reinforcement Learning, Computer Vision, Seismology Signal Analysis  
-Teaching: Machine Learning and Neural Networks at NSU  
+Teaching: Machine Learning and Neural Networks at NSU    
 ```
 ## 🌟 Highlights
 ```bash
-Dynamic Behavior Agents: Developing RL agents with adaptive behavior. GitHub Link
-Snake RL: Implemented a reinforcement learning agent for the classic Snake game. GitHub Link
+Dynamic Behavior Agents: Developing RL agents with adaptive behavior. [https://github.com/dolganin/bachelor_degree](#)
+Snake RL: Implemented a reinforcement learning agent for the classic Snake game. [https://github.com/dolganin/snake_RL](#)
 Seismology Research: Investigating earthquake prediction on Kamchatka with custom signal compression models (proprietary implementations).
 Rockchip Expertise: Proficient in working with RK3588, including documentation translation and system integration.
-Teaching: Author of practical ML and NN assignments for students at NSU. Assignments Repository
+Teaching: Author of practical ML and NN assignments for students at NSU. [https://github.com/dolganin/ML-NNs](#)
 ```
 
 
