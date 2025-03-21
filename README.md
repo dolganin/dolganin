@@ -46,16 +46,20 @@ Teaching: Author of practical ML and NN assignments for students at NSU. [https:
 
 ## 🔗 Connect with Me
 <div id="badges">
-  <a href="https://t.me/bolg_4rin">
+  <a href="https://t.me/dolg4nin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/bolg_4rin">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-    <a href="mailto:8yp3r10@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+  <a href="mailto:8yp3r10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/bolg4rin">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>
+
 
 <!--
 **dolganin/dolganin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
