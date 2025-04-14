@@ -4,7 +4,7 @@
 $ sudo nvidia-smi --loop=inf
 ```
 
-## ===== About Me =====
+# ===== About Me =====
 ```bash
 
 > Location: Novosibirsk, Russian Federation
@@ -70,7 +70,6 @@ $ sudo nvidia-smi --loop=inf
 > Email: 8yp3r10@gmail.com
 > Kaggle: kaggle.com/bolg4rin
 
-## 🔗 Connect with Me
 <div id="badges">
   <a href="https://t.me/dolg4nin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -86,8 +85,9 @@ $ sudo nvidia-smi --loop=inf
   </a>
 </div>
 
-
+```bash
 ###############################################
 #           $ exit                            #
 #           Connection to github.com closed.  #
 ###############################################
+```
