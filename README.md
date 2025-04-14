@@ -65,11 +65,6 @@ $ sudo nvidia-smi --loop=inf
 
 # ===== Contacts =====
 
-> Telegram: t.me/dolg4nin
-> VK: vk.com/bolg_4rin
-> Email: 8yp3r10@gmail.com
-> Kaggle: kaggle.com/bolg4rin
-
 <div id="badges">
   <a href="https://t.me/dolg4nin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
